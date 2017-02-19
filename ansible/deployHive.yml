@@ -1,0 +1,10 @@
+---
+
+- hosts: all
+  gather_facts: yes
+  become: yes
+  roles:
+    #- role: darkedges.commonos
+    #- role: williamyeh.oracle-java
+    - role: darkedges.hive
+    
