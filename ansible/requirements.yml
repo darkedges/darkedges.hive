@@ -3,3 +3,5 @@
 - src: williamyeh.oracle-java
 - src: https://github.com/darkedges/ansible-commonos
   name: darkedges.commonos
+- src: https://github.com/darkedges/ansible-hive
+  name: darkedges.hive
