@@ -6,5 +6,6 @@
   roles:
     #- role: darkedges.commonos
     #- role: williamyeh.oracle-java
-    - role: darkedges.hive
+    - role: darkedges.hadoop
+    #- role: darkedges.hive
     

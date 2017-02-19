@@ -5,3 +5,5 @@
   name: darkedges.commonos
 - src: https://github.com/darkedges/ansible-hive
   name: darkedges.hive
+- src: https://github.com/darkedges/ansible-hadoop
+  name: darkedges.hadoop
